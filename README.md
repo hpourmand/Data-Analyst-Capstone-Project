@@ -1,4 +1,4 @@
-# Python-Project-for-Data-Science
+# Data Analyst Capstone Project
 
 We have been hired as a Data Analyst by a global IT and business consulting firm known for its expertise in IT solutions. Our role involves supporting the organization in staying competitive by analyzing data to identify future skill requirements. Our first task is to gather data on the most in-demand programming skills from sources like job postings, training portals, and surveys. After collecting the data, we'll analyze it to identify key insights and trends that may include the following: What are the top programming languages in demand? * What are the top database skills in demand? * What are the popular IDEs?
 
